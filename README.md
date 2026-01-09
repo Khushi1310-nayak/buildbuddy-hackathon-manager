@@ -50,8 +50,8 @@ Generates clean, shareable portfolio pages to showcase hackathon projects, learn
 | Layer | Technology |
 |------|-----------|
 | Frontend | Flutter |
-| Backend | Dart |
-| AI | LLM-based AI Assistance |
+| Backend | Dart | Ruby |
+| AI | LLM-based AI Assistance (OpenAI) |
 | Deployment | Web / Dreamflow |
 
 ---
